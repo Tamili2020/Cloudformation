@@ -1,0 +1,26 @@
+[
+  {
+    "ParameterKey": "VpcId",
+    "ParameterValue": "vpc-01c522e29ad1daa7f"
+  },
+  {
+    "ParameterKey": "Subnet1",
+    "ParameterValue": "subnet-08b181302bab2445e"
+  },
+  {
+    "ParameterKey": "Subnet2",
+    "ParameterValue": "subnet-0cc0fb90f2c1df0a4"
+  },
+  {
+    "ParameterKey": "KeyName",
+    "ParameterValue": "my-win-key.pem"
+  },
+  {
+    "ParameterKey": "InstanceType",
+    "ParameterValue": "t3.micro"
+  },
+  {
+    "ParameterKey": "AmiId",
+    "ParameterValue": "ami-02661dea29238a5a5"
+  }
+]
